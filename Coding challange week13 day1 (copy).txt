@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>My Introduction</title>
+    </head>
+
+    <body>
+        <h1>A Breif Introduction of Myself</h1>
+        <hr></hr>
+        <h2>Overview</h2>
+        <ul>
+            <li><b>Name</b> - Jammi Shah</li>
+            <li><b>Age</b> - 21</li>
+            <li><b>Home Town</b> - Srinagar</li>
+            <li><b>E-mail</b> - jammishah@gmail.com</li>
+            <li><b>Interests</b> - 
+                <ul>
+                    <li>Writing</li>
+                    <li>Reading</li>
+                    <li>Football</li>
+                    <li>Coding</li>
+                    <li>Psychology</li>
+                    <li>Gyming</li>
+                </ul>
+            </li>
+        </ul>
+        <hr/>
+        <img src="https://images.yourstory.com/cs/wordpress/2016/02/My-Introduction_Cover_Herstory.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face" title="Introdiction" width="1080" />
+        <h2>Introduction</h2>
+        <h2>Contact Me: </h2>
+        <a href="mailto:jammishah@gmail.com">E-mail</a>
+
+    </body>
+</html>
